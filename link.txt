@@ -1,1 +1,1 @@
-https://ffr-react-exercicio-06.netlify.com/
+https://ffr-exercicio-06.netlify.com/
